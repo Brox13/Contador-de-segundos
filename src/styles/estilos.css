@@ -1,0 +1,19 @@
+.posiciones{
+    display: inline-block;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 160px;
+    padding: 50px;
+    border-block-start: 10px;
+}
+
+.contador{
+    display: inline-block;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 160px;
+    padding: 50px;
+    border-block-start: 10px;
+}
